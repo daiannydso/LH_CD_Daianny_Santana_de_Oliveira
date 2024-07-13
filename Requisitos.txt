@@ -1,0 +1,7 @@
+- Python (3.10.12)
+- Pandas (2.0.3)
+- Matplotlib (3.7.1)
+- Seaborn (0.13.1)
+- NumPy (1.25.2)
+- Sklearn (1.2.2)
+- Pickle (4.0)
